@@ -1,0 +1,115 @@
+@media (max-width: 980px) {
+    .sercices {
+        padding-top: 40px;
+    }
+
+    .sercices .blocks {
+        width: 125px;
+        height: 125px;
+    }
+    .sercices .info-item img {
+        width: 60px;
+    }
+    .sercices h3 {
+        font-size: 13px;
+    }
+    .sercices p {
+        text-align: center;
+        padding-top: 6px;
+        font-size: 9px;
+        line-height: 10px;
+    }
+    div#item-one {
+        margin-right: 35px;
+    }
+    div#item-three {
+        margin-left: 10px;
+    }
+}
+@media (max-width: 750px) {
+    .sercices {
+        padding-top: 25px;
+    }
+
+    .sercices .blocks {
+        width: 95px;
+        height: 95px;
+    }
+    .sercices .info-item img {
+        width: 45px;
+    }
+    .sercices h3 {
+        font-size: 11px;
+    }
+    .sercices p {
+        text-align: center;
+        padding-top: 4px;
+        font-size: 7px;
+        line-height: 8px;
+    }
+    div#item-one {
+        margin-right: 20px;
+    }
+    div#item-three {
+        margin-left: 5px;
+    }
+}
+@media(max-width:500px){
+    .sercices {
+        padding-top: 20px;
+    }
+    .sercices .blocks {
+        width: 70px;
+        height: 70px;
+    }
+    .sercices .info-item img {
+        width: 35px;
+    }
+    .sercices h3 {
+        font-size: 11px;
+    }
+    .sercices p {
+        text-align: center;
+        padding-top: 3px;
+        font-size: 7px;
+        line-height: 7px;
+    }
+    div#item-one {
+        margin-right: 15px;
+    }
+    div#item-three {
+        margin-left: 4px;
+    }
+}
+
+@media(max-width:420px){
+    .sercices {
+        padding-top: 15px;
+    }
+    .sercices .blocks {
+        width: 60px;
+        height: 60px;
+    }
+    .sercices .info-text{
+        padding: 10px 10px 0 10px;
+    }
+    .sercices .info-item img {
+        width: 30px;
+    }
+    .sercices h3 {
+        font-size: 10px;
+    }
+    .sercices p {
+        text-align: center;
+        padding-top: 2px;
+        font-size: 7px;
+        line-height: 7px;
+    }
+    div#item-one {
+        margin-right: 15px;
+    }
+    div#item-three {
+        margin-left: 4px;
+    }
+}
+

@@ -1,0 +1,14 @@
+.copyright {
+    border-top: 1px solid #e5e5e5;
+    margin-top: 72px;
+}
+footer .copyright-wrapper {
+    padding-top:25px;
+    padding-bottom: 35px;
+}
+footer .copyright-wrapper p {
+    margin: 0 auto;
+    text-align: center;
+    color: var(--font-color-sercices);
+    font-size: var(--font-md);
+}

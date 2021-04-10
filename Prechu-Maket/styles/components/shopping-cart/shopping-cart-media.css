@@ -1,0 +1,114 @@
+@media (max-width: 980px) {
+    main .shopping-cart {
+        padding-top: 75px;
+    }
+    main .shopping-cart .wrapper-left{
+        width: 50%;
+    }
+    main .shopping-cart h2 {
+        font-size: 25px;
+        padding-left: 25px;
+    }
+    main .shopping-cart img {
+        width: 70%;
+        padding-top: 30px;
+
+    }
+    .shopping-cart .wrapper-right h3 {
+        color: #6f7173;
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+
+    .shopping-cart .wrapper-right p {
+        color: #909090;
+        font-size: 10px;
+        line-height: 20px;
+    }
+}
+@media (max-width: 750px) {
+    main .shopping-cart {
+        padding-top: 50px;
+    }
+    main .shopping-cart .wrapper-left{
+        width: 50%;
+    }
+    main .shopping-cart h2 {
+        font-size: var(--font-xlg);
+
+    }
+    main .shopping-cart img {
+        width: 60%;
+        padding-top: 20px;
+        padding-left: 30px;
+
+    }
+    .shopping-cart .wrapper-right h3 {
+        color: #6f7173;
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+
+    .shopping-cart .wrapper-right p {
+        color: #909090;
+        font-size: 8px;
+        line-height: 12px;
+    }
+}
+@media (max-width:500px){
+    main .shopping-cart {
+        padding-top: 40px;
+    }
+    main .shopping-cart .wrapper-left{
+        width: 50%;
+    }
+    main .shopping-cart h2 {
+        font-size: 16px;
+
+    }
+    main .shopping-cart img {
+        width: 60%;
+        padding-top: 20px;
+        padding-left: 30px;
+
+    }
+    .shopping-cart .wrapper-right h3 {
+        color: #6f7173;
+        font-size: 10px;
+        padding-bottom: 8px;
+    }
+    .shopping-cart .wrapper-right p {
+        color: #909090;
+        font-size: 6px;
+        line-height: 12px;
+    }
+}
+@media(max-width:420px){
+    main .shopping-cart {
+        padding-top: 35px;
+    }
+    main .shopping-cart .wrapper-left{
+        width: 50%;
+    }
+    main .shopping-cart h2 {
+        font-size: 14px;
+
+    }
+    main .shopping-cart img {
+        width: 60%;
+        padding-top: 20px;
+        padding-left: 30px;
+
+    }
+    .shopping-cart .wrapper-right h3 {
+        color: #6f7173;
+        font-size: 10px;
+        padding-bottom: 8px;
+    }
+    .shopping-cart .wrapper-right p {
+        color: #909090;
+        font-size: 5px;
+        line-height: 6px;
+    }
+}
+
